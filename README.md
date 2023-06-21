@@ -1,6 +1,5 @@
-<div align="right">
-<img src="https://github.com/RohithSriSharan/RohithSriSharan/assets/68703777/6db998ab-8f5e-4e04-82c7-67ae8c18e337" width=100>
-</div>
+
+<img src="https://github.com/RohithSriSharan/RohithSriSharan/assets/68703777/6db998ab-8f5e-4e04-82c7-67ae8c18e337"  align="right" width=350>
 
 ## 🌟 __About Me__
 
