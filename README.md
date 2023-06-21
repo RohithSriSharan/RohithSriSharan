@@ -1,17 +1,14 @@
-
-# 💫 About Me:
-
 <div align="right">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw318RLm54y62tFp9vyOAUR_&ust=1687442563259000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDxs8bD1P8CFQAAAAAdAAAAABAJ" alt="Profile Image" width="200">
+  <img src="https://avatars.githubusercontent.com/u/68703777?v=4" alt="Profile Image" width="50">
 </div>
 
-<h2>Envisioning and Creating the Extraordinary</h2>
+## 🌟 __About Me__
 
-🌐 My Portfolio -> [https://rohithj.dev](https://rohithj.dev)
+### _Envisioning and Creating the Extraordinary_
+<a href="https://rohithj.dev">🌐Portfolio Website</a></br>
+<a href="mailto:/rohithsrishran16@gmail.com">📧Mail me at</a></br>
+<a href="https://brown-tiertza-80.tiiny.site/">📃Resume</a>
 
-📫 How to reach me -> rohithsrishran16@gmail.com
-
-📄 Resume -> [https://brown-tiertza-80.tiiny.site/](https://brown-tiertza-80.tiiny.site/)
 
 ## 🌐 Socials:
 
