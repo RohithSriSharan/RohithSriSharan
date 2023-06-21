@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://avatars.githubusercontent.com/u/68703777?v=4" alt="Profile Image" width="50">
+<img src="https://github.com/RohithSriSharan/RohithSriSharan/assets/68703777/6db998ab-8f5e-4e04-82c7-67ae8c18e337" width=100>
 </div>
 
 ## 🌟 __About Me__
