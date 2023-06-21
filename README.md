@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 <div align="right">
-  <img src="your_image_url_here" alt="Profile Image" width="200">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw318RLm54y62tFp9vyOAUR_&ust=1687442563259000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDxs8bD1P8CFQAAAAAdAAAAABAJ" alt="Profile Image" width="200">
 </div>
 
 <h2>Envisioning and Creating the Extraordinary</h2>
