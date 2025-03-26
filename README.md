@@ -3,7 +3,7 @@
 ## 🌟 __About Me__
 
 ### _Envisioning and Creating the Extraordinary_
-<a href="https://rohithj.dev">🌐Portfolio Website</a></br>
+<a href="https://rohithj.com">🌐Portfolio Website</a></br>
 <a href="mailto:/rohithsrishran16@gmail.com">📧Mail me</a></br>
 <a href="https://brown-tiertza-80.tiiny.site/">📃Resume</a>
 
